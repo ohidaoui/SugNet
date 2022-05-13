@@ -1,2 +1,2 @@
 # UNet-Semantic-Segmentation
- Implementiing an inhenced UNet architechure for
+Implementing a U-Net based convnet for sugar beets crop/weeds detection
